@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there, this is Ace 👋
 
+Join me on my adventure on building awesome hard- and software
+
+- 🔭 I’m currently working on Inkycal,
+- 🌱 I’m currently studying computer science at university
+- 📫 You can reach me via e-mail: aceisace63@yahoo.com
+- 💬 Ask me about Linux, Python, Raspberry Pi and Arduino. I also know a bit of C++, Java, HTML, CSS, jQuery, Flask and webservers too 
+- 😄 Pronouns: He
 <!--
 **aceisace/aceisace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
