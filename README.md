@@ -37,4 +37,3 @@ Welcome to my profile, you are visitor ![](https://komarev.com/ghpvc/?username=a
   * PCB design
   * Webservers
 
-**If you need to ask me something, feel free to send me an email to inkycal@aceinnolab.com**
