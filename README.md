@@ -1,7 +1,7 @@
 ### Hi there, this is Ace
 Welcome to my profile, you are visitor ![](https://komarev.com/ghpvc/?username=aceisace) ! :tada:
 
-**I'm a university student in CS, a software and hardware developer**
+**I'm a university student in CS, a hardware and software developer (fullstack)**
 
 **I'm developing too many things at once, honestly, some related to work, some for university and some as a hobby. But when I do get some time, I like developing Inkycal :)**
 
@@ -37,4 +37,4 @@ Welcome to my profile, you are visitor ![](https://komarev.com/ghpvc/?username=a
   * PCB design
   * Webservers
 
-**If you need to ask me something, feel free to send me an email to aceisace63@yahoo.com**
+**If you need to ask me something, feel free to send me an email to inkycal@aceinnolab.com**
